@@ -2,7 +2,7 @@
 A simple program that checks if a given year is a leap year or not. This is my day 2 project in my 100 days of coding course.
 
 ## Flow chart analogy
-![Screenshot](https://drive.google.com/file/d/1G9hg8TnmdfzfAjUUS_cURolD8GBePe43/view?usp=share_link)
+![Screenshot]()
 
 ## Requirements
 + Python 3
